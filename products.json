@@ -5,5 +5,12 @@
     "price": 1250000,
     "location": "Javohir uyida",
     "id": "6kse0n07"
+  },
+  {
+    "name": "Mashina uchun xushbo'y atir",
+    "quantity": 1,
+    "price": 100000,
+    "location": "Javohir uyida",
+    "id": "yeygmzwo"
   }
 ]
