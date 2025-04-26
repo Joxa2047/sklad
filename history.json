@@ -7,5 +7,14 @@
     "id": "rg3utx98",
     "worker_id": "p1uf5cui",
     "timestamp": "2025-04-26T19:24:55.144Z"
+  },
+  {
+    "product_id": "yeygmzwo",
+    "action": "add",
+    "quantity": 1,
+    "comment": "Yangi mahsulot qo'shildi",
+    "id": "abvjvqex",
+    "worker_id": "p1uf5cui",
+    "timestamp": "2025-04-26T19:25:39.199Z"
   }
 ]
