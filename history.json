@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "product_id": "6kse0n07",
+    "action": "add",
+    "quantity": 6,
+    "comment": "Yangi mahsulot qo'shildi",
+    "id": "rg3utx98",
+    "worker_id": "p1uf5cui",
+    "timestamp": "2025-04-26T19:24:55.144Z"
+  }
+]
